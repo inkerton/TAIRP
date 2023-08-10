@@ -6,4 +6,5 @@ Tech-A-Intern Repository containing all the work <br>
 <ol>
   <li>Fruit-image classification</li>
   <li>Iris Flower Classification</li>
+  <li>Titanic survival prediction</li>
 </ol>
