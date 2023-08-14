@@ -1,6 +1,7 @@
 # TAIRP
 Tech-A-Intern Repository containing all the work done during my Machine Learning Internship. <br>
 From <b>1-Aug'23</b> to <b>23-Aug'23</b>
+LinkedIN-
 
 <h2>Tasks</h2>
 <!--
