@@ -15,5 +15,5 @@ Tech-A-Intern Repository containing all the work <br>
 </ol>
 <h4>Level-3</h4>
 <ol>
-  <li>Movie</li>
+  <li>Movie Recommendation</li>
 </ol>
