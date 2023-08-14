@@ -1,7 +1,7 @@
 # TAIRP
 Tech-A-Intern Repository containing all the work done during my Machine Learning Internship. <br>
 From <b>1-Aug'23</b> to <b>23-Aug'23</b>
-LinkedIN-
+[LinkedIN](https://www.linkedin.com/posts/janvi-choudhary-68a199225_offer-letter-activity-7090767882904637440-DT9x?utm_source=share&utm_medium=member_desktop)
 
 <h2>Tasks</h2>
 <!--
