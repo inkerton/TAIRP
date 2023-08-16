@@ -12,12 +12,12 @@ From <b>1-Aug'23</b> to <b>23-Aug'23</b> <br>
   <li>Iris Flower Classification</li>
   <li>Titanic survival prediction</li>
 </ol>
--->
+
 <h4>Level-2</h4>
 <ol>
   <li></li>
   <li></li>
-</ol>
+</ol>-->
 <h4>Level-3</h4>
 <ol>
   <li>[Movie Recommendation system]( )</li>
